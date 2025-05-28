@@ -1,6 +1,7 @@
-# Thesis Project
+# Thesis: Implementation and Defense Against Adversarial Attacks in Image Classification
 
-This repository contains code and experiments for my thesis on **Adversarial Attacks and Defense in Image Classification model**.
+This repository contains the implementation and analysis presented in my M.Tech thesis titled **"Implementation and Defense Against Adversarial Attacks in Image Classification"**. The work focuses on studying adversarial vulnerabilities in deep learning models and implementing various defense techniques.
+
 
 ## Contents
 - FGSM implementation
@@ -38,6 +39,13 @@ defense against FGSM, without severely compromising accuracy on clean data. The
 main goal targets the development of deep learning systems which maintain security
 and resilience for trusted deployment in real-world operations.
 
-## Author  
-Umesh Kumar  
-IIT (ISM) DHANBAD
+## Author
+
+**Umesh Kumar**  
+M.Tech, Computer Science and Engineering  
+Indian Institute of Technology, Dhanbad  
+
+## Supervision and Guidance
+
+- **Prof. Rajendra Pamula**, Department of Computer Science and Engineering, IIT (ISM) Dhanbad  
+- **Arju Qureshi**, PhD Scholar, Department of Computer Science and Engineering, IIT (ISM) Dhanbad
